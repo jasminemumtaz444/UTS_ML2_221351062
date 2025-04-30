@@ -23,7 +23,6 @@ Setelah proses pelatihan dan deployment, kamu akan mendapatkan 3 file utama:
 |------|-----------|
 | `titanic_model.tflite` | Model hasil pelatihan dalam format TensorFlow Lite |
 | `scaler.pkl` | Scaler untuk transformasi fitur numerik (Age & Fare) |
-| `label_encoder.pkl` *(opsional)* | Encoder untuk fitur kategorikal seperti Sex/Embarked jika diperlukan |
 
 ---
 
