@@ -27,20 +27,9 @@ Setelah proses pelatihan dan deployment, kamu akan mendapatkan 3 file utama:
 
 ---
 
-## 🚀 Jalankan di Google Colab
+## 🚀🚀🚀
 
-### 1. **Buka Google Colab**
-
-Klik badge ini untuk langsung membuka di Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPOSITORY-NAME/blob/main/titanic_model_colab.ipynb)
-
-> Ganti `USERNAME/REPOSITORY-NAME` sesuai GitHub kamu.
-
----
-
-### 2. **Clone Repository**
+### 1. **Clone Repository**
 
 ```python
-!git clone https://github.com/USERNAME/REPOSITORY-NAME.git
-%cd REPOSITORY-NAME
+!git clone https://github.com/jasminemumtaz444/UTS_ML2_221351062.git
