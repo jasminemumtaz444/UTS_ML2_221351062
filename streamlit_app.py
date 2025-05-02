@@ -13,7 +13,11 @@ output_details = interpreter.get_output_details()
 scaler = joblib.load("scaler.pkl")
 
 # UI
-st.title("Titanic Survival Prediction")
+st.set_page_config(page_title="Titanic Survival Prediction 🚢", layout="centered")
+
+st.title("🚢 Titanic Survival Prediction App")
+st.subheader("Input your details and find out if you'd survive the Titanic disaster.")
+
 
 Pclass = st.selectbox("Passenger Class (1 = First, 2 = Second, 3 = Third)", [1, 2, 3])
 Sex = st.selectbox("Sex", ["male", "female"])
